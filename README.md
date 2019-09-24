@@ -93,7 +93,7 @@ Tensroflow练习
 [推荐系统遇上深度学习(五)--Deep&Cross Network模型理论和实践<br>](https://www.jianshu.com/p/77719fc252fa)
 [推荐系统遇上深度学习(六)--PNN模型理论和实践<br>](https://www.jianshu.com/p/be784ab4abc2)
 [推荐系统遇上深度学习(七)--NFM模型理论和实践<br>](https://www.jianshu.com/p/4e65723ee632)
-[推荐系统遇上深度学习(八)--AFM模型理论和实践<br>](https://www.jianshu.com/p/83d3b2a1e55d)
+[推荐系统遇上深度学习(八)--AFM模型理论和实践<br>](https://www.jianshu.com/p/83d3b2a1e55d)   https://blog.csdn.net/leadai/article/details/88361355
 [推荐系统遇上深度学习(九)--评价指标AUC原理及实践<br>](https://www.jianshu.com/p/4dde15a56d44)
 [推荐系统遇上深度学习(十)--GBDT+LR融合方案实战<br>](https://www.jianshu.com/p/96173f2c2fb4)
 [推荐系统遇上深度学习(十一)--神经协同过滤NCF原理及实战<br>](https://www.jianshu.com/p/6173dbde4f53)
